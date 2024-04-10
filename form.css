@@ -47,7 +47,7 @@ gap:20px ;
 }
 
 h2{
-    margin: 0.3vw 0 0 0;
+    margin: 0.5vw 0 0 0;
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: max(4vw ,60px);
@@ -140,8 +140,7 @@ padding: 20px;
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        overflow-y: hidden;
-    }
+        overflow: hidden;    }
     
     .container {
         width:100vw ;
@@ -157,11 +156,12 @@ padding: 20px;
     
  
     img{
+        
             position: absolute;
         top: 0;
     right: 0;
         width: 100vw;
-        height: 140vh;
+        height: 100vh;
     }
 
     .box{
@@ -214,6 +214,7 @@ p{
 }
 img{
     width: 120vw;
+    height: 140vh;
 }
 
 
