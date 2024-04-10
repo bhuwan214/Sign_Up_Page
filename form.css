@@ -47,7 +47,7 @@ gap:20px ;
 }
 
 h2{
-    margin: .3vw 0 0 0;
+    margin: 0.3vw 0 0 0;
     
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: max(4vw ,60px);
@@ -83,7 +83,7 @@ form{
 
 .input_container{
     width: 300px;
-    height: 5vw;
+    height: 4vw;
     padding:15px;
 }
 
